@@ -15,7 +15,7 @@ export default function Home() {
           <Search className="h-5 w-5" />
         </Button>
       </div>
-      <Button>Click me</Button>
+      <Button>Click me first</Button>
     </main>
   )
 }
